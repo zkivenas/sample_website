@@ -11,3 +11,35 @@
 .twitter-image-link {
   text-decoration: none;
 }
+.lincoln-quoteblock {
+  padding: 2px 20px;
+  background-color: #ccc;
+}
+.header-style {
+  text-align: center;
+  margin: 0 0 80px;
+}
+.div-style {
+  width: 500px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #fafafa;
+}
+.center-image {
+  display: block;
+  margin: 0 auto;
+}
+.float-image-left {
+  float: left;
+  margin: 0 40px 0 0;
+}
+.moby-dick-blockquote {
+  font-style: italic;
+  font-size: 20px;
+}
+.ishmael-style {
+  font-style: normal;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ff0000;
+}
